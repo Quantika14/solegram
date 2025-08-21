@@ -24,7 +24,7 @@ El análisis está basado en métricas de interacción, horarios de publicación
 
 --max-posts → número máximo de publicaciones a procesar.
 
-📦 Instalación
+# 📦 Instalación
 
 Clona este repositorio:
 
@@ -56,10 +56,12 @@ Ejecuta la aplicación desde la terminal con:
 python main.py --username elperitoinf --max-posts 20
 
 
-Ejemplo de salida en consola:
+## Ejemplo de salida en consola:
 
 [███░░░░░░░░░░░░░░░░░░]  15%  Obteniendo datos del perfil...
+
 [████████░░░░░░░░░░░░░]  50%  Procesando publicaciones...
+
 [█████████████████████] 100%  Informe generado ✅
 
 # 📊 Informe de @elperitoinf
